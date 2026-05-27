@@ -144,3 +144,11 @@ undertone.com, 4108, RESELLER
 ushareit.com, lcb555b3bc8667a09a, RESELLER
 video.unrulymedia.com, 144138083, RESELLER
 video.unrulymedia.com, 389957698, RESELLER
+video.unrulymedia.com, 657436911, RESELLER
+videoheroes.tv, 212428, RESELLER, 064bc410192443d8
+voisetech.com, 1066, RESELLER
+xandr.com, 13799, RESELLER
+xandr.com, 15840, RESELLER
+xandr.com, 17779, RESELLER
+zetaglobal.net, 630, RESELLER
+zmaticoo.com, 5135195, RESELLER
